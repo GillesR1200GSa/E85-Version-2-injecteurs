@@ -6,5 +6,9 @@ o KiCad.zip les fichiers Kicad, schéma et PCB.
 o PICx2.zip code source assembleur pour le PIC16F628.  
 o Schéma.pdf le schéma de ce projet.  
 
-![E85x2-1](https://github.com/user-attachments/assets/9e4dd014-9d15-4943-bead-c514faa0390b)
+![E85x2-1](https://github.com/user-attachments/assets/40bb55cb-2b42-4703-a245-0d696698b416)
+
+Capture d'écran sur le smartphone :  
+
+![E85x2-2](https://github.com/user-attachments/assets/03d03030-f4e9-40aa-806f-730672171ec2)
 
